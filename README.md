@@ -33,6 +33,10 @@ I'm a passionate **Full-Stack Developer** and **Software Engineer** with experti
   <img src="https://github-profile-trophy.vercel.app/?username=Bhupiiam&theme=radical&no-frame=true&margin-w=5"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupiiam&theme=react-dark&hide_border=true"/>
+</p>
+
 ---
 
 ## 🔥 Projects
